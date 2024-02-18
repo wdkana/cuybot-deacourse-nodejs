@@ -1,0 +1,22 @@
+{
+  "name": "cuybot",
+  "version": "1.0.0",
+  "description": "cuybot is a learning bot",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "cuybot",
+    "telegram",
+    "bot"
+  ],
+  "author": "dea afrizal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
